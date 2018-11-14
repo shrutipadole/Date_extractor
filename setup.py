@@ -11,7 +11,7 @@ setuptools.setup(
     description="exhaustive date detector",
     long_description=long_description,
     long_description_content_type="text",
-    url="https://bitbucket.org/team_sy/df_sp_sy/src/master/",
+    url="https://github.com/shrutipadole/date_extractor/",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
